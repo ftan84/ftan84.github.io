@@ -1,11 +1,10 @@
 ---
+title: "About"
 layout: single
 permalink: /about/
 author_profile: true
 author: Francis Tan
 ---
-# About
-
 Hi! My name is Francis Tan and welcome to my site. I am a lifelong learner in
 pursuit of mastering the art (and science) of Data Science. I have created this
 site to showcase my work, my passion, and my experiments and to share the
