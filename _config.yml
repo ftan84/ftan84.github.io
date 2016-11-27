@@ -22,6 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
+include: ['_pages']
 github_username:  ftan84
 paginate: 5
 words_per_minute: 200
@@ -47,3 +48,4 @@ defaults:
         comments: true
         share: true
         related: true
+        author: Francis Tan
