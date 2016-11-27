@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+host                     : "0.0.0.0"
 locale                   : "en"
 title                    : "train(DataScience)"
 title_separator          : "-"
@@ -85,7 +86,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
-  email            :
+  email            : "tds.ftan@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
