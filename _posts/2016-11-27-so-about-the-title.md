@@ -8,7 +8,7 @@ tags:
 ---
 Welcome to my new blog! My name is Francis Tan and I am an aspiring Data
 Scientist. I am passionate about the field and am always interested in learning
-more. A bit about myself -- I have B.S. in Computer Science and an M.B.A and
+more. A bit about myself -- I have a B.S. in Computer Science and an M.B.A and
 I am hoping that my two degrees can combine into a super power! :) Yes, that was
 cheesy, but hey, hopefully it will make for a more enjoyable read. And yes, I
 will likely get a lot of groans and eye rolls from you guys so let me know in
@@ -23,20 +23,22 @@ and it goes something like this:
 > naming things." -- Phil Karlton
 
 The title is sort of a play on the `train()` function found in the `caret`
-package in R. Essentially, you _feed_ the train function with training data and
-what it returns is a _fit_ object based on the method chosen. Since this site is
-really a record on the Data Science learnings I am acquiring, I thought a
-play on something like `francis <- train(machine_learning)` or
-`FT <- train(DataScience)` would be kinda cool. In the end, `train(DataScience)`
-seemed succinct and display-friendly ennough for a site title.
+package in R. Essentially, you "feed" the train function with training data and
+what it returns is a _fit_ object based on the method chosen. That new _fit_
+object can then be applied to make predictions based on the data it has
+"learned." Since this site is really a record on the Data Science learnings I
+am acquiring, I thought a play on something like
+`francis <- train(machine_learning)` or `FT <- train(DataScience)` would be
+kind of cool. In the end, `train(DataScience)` seemed succinct and
+display-friendly enough for a site title.
 
 So with that said, here's what to expect from this site. You'll mostly find my
 notes on various topics on Data Science/tech related stuff -- bear in mind that
 I've written these notes mostly for my own safe keeping. Given my coding
 background, I don't intend on diving too much into the coding basics but more
-around the ideas of the subject matter itself. So my notes are rather terse and
-to the point and you'll generally find they are mostly made up of code snippets
-with the occasional explanation where appropriate.
+around the ideas of the subject matter itself. So my notes will be rather terse
+and to the point and you'll generally find they are mostly made up of code
+snippets with the occasional explanation where appropriate.
 
 I hope you guys will find this site helpful and enjoyable. Also, I know there
 are many of you out there far more qualified to explain the concepts on this

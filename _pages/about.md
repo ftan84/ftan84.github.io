@@ -20,7 +20,7 @@ You can also find some of the web work I've done below:
 friends' wedding website
 
 Finally you can get more information about me from my
-[LinkedIn](https://www.linkedin.com/in/francis-tan-mba-ba59a84) profile,
-my resume or you can email me directly.
+[LinkedIn](https://www.linkedin.com/in/francis-tan-mba-ba59a84) profile or you
+can [email](mailto:tds.ftan@gmail.com) me directly.
 
 Thanks for visiting!
