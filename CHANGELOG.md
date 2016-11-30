@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3 (2016-11-29)
+* Added more files needed for theme to function properly
+
 ## 1.0.2 (2016-11-29)
 * Screwed up the versioning in the last one
 
