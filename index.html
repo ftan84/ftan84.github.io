@@ -16,5 +16,6 @@ author: Francis Tan
         {{ post.date }}
         {{ post.tags }}
         <!-- {{ post.excerpt }} -->
+        {{ post.content | strip_html | truncatewords:75}}
     </p>
 {% endfor %}
