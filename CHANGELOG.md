@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.5 (2016-12-03)
+* Added Google site verification
+
 ## 1.0.4 (2016-12-03)
 * Added Google Analytics tracking
 
