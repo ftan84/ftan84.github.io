@@ -14,4 +14,5 @@ travel and the best part about it -- she packs light. She can fit everything
 that she needs in a tiny suitcase and can travel everywhere with it. So,
 Wordpress (or your favorite CMS), we're breaking up.
 
-Of course I'm talking about Jekyll.
+Of course I'm talking about Jekyll. For those of you unfamiliar, Jekyll is a
+single web page generator.
