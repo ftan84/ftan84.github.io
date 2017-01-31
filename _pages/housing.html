@@ -1,0 +1,35 @@
+---
+title: "Housing Predictor"
+layout: single
+permalink: /housing/
+author_profile: true
+author: Francis Tan
+---
+<!-- <form action='http://0.0.0.0:5000/api/housing&#45;predictor/v1/getProperties' method='get'> -->
+<div class='data-form'>
+    <p>City: <input type='text' id='city'></p>
+    <p>Type:
+        <select id='useCode'>
+            <option value='SingleFamily'>SingleFamily</option>
+            <option value='Townhouse'>Townhouse</option>
+        </select>
+    </p>
+    <p>Bedrooms: <input type='text' id='bedrooms'></p>
+    <p>Bathrooms: <input type='text' id='bathrooms'></p>
+    <p>Limit: <input type='text' id='limit' value='5'>
+    <p><button id='query'>Query</button></p>
+</div>
+<!-- </form> -->
+
+<p>
+<table id='properties' class='data-table'>
+</table>
+</p>
+<!-- <ul id='properties'></ul> -->
+<!--  -->
+<script src='/assets/js/vendor/jquery/jquery-1.12.4.min.js'></script>
+<script src='/assets/js/housing.js'></script>
+<!-- <!&#45;&#45; Latest compiled and minified CSS &#45;&#45;> -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384&#45;BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+<!-- <!&#45;&#45; Latest compiled and minified JavaScript &#45;&#45;> -->
+<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384&#45;Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->

@@ -1,0 +1,20 @@
+// .data-form p {
+//   font-size: 80%;
+// }
+
+.data-table {
+  margin-bottom: 1em;
+  width: 100%;
+  font-family: $global-font-family;
+  font-size: $type-size-8;
+  border-collapse: collapse;
+  border: 1px solid $light-gray;
+
+  // & + table {
+  //   margin-top: 1em;
+  // }
+}
+
+.data-table tr:nth-child(even) {
+    background-color: $light-gray;
+}
